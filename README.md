@@ -1,5 +1,7 @@
 
 # <h1 align="center"> Formação Fullstack Oracle One <h1>
+  
+  Vou colocar meus arquivos da trilha nesse repositório para ficarem mais organizados 😃
 
 ## Lógica de Programação 🟠
 
