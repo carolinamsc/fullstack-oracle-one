@@ -10,12 +10,12 @@
 - [x] 3 - HTML5 e CSS3 parte 1: a primeira página da Web
 - [x] 4 - HTML5 e CSS3 parte 2: posicionamento, listas e navegação
 - [x] 5 - Javascript: programando na linguagem da web
-- [ ] Projeto Oracle One Lógica de Programação
+- [x] Projeto Oracle One Lógica de Programação
 
 ## Front-end 🔵
 
-- [ ] 6 - HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
-- [ ] 6 - HTML5 e CSS3 parte 4: avançando no CSS
+- [x] 6 - HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
+- [x] 6 - HTML5 e CSS3 parte 4: avançando no CSS
 - [ ] 7 - jQuery: domine a biblioteca mais popular do mercado parte 1
 - [ ] 7 - jQuery: avance na biblioteca mais popular do mercado parte 2
 - [ ] 8 - Layouts Responsivos: trabalhando com layouts mobile
