@@ -16,8 +16,8 @@
 
 - [x] 6 - HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
 - [x] 6 - HTML5 e CSS3 parte 4: avançando no CSS
-- [ ] 7 - jQuery: domine a biblioteca mais popular do mercado parte 1
-- [ ] 7 - jQuery: avance na biblioteca mais popular do mercado parte 2
+- [x] 7 - jQuery: domine a biblioteca mais popular do mercado parte 1
+- [x] 7 - jQuery: avance na biblioteca mais popular do mercado parte 2
 - [ ] 8 - Layouts Responsivos: trabalhando com layouts mobile
 
 ## Java 🔴
