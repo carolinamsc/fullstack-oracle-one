@@ -18,11 +18,11 @@
 - [x] 6 - HTML5 e CSS3 parte 4: avançando no CSS
 - [x] 7 - jQuery: domine a biblioteca mais popular do mercado parte 1
 - [x] 7 - jQuery: avance na biblioteca mais popular do mercado parte 2
-- [ ] 8 - Layouts Responsivos: trabalhando com layouts mobile
+- [x] 8 - Layouts Responsivos: trabalhando com layouts mobile
 
 ## Java 🔴
 
-- [ ] 9 - Java JRE e JDK: escreva o seu primeiro código com Eclipse
+- [x] 9 - Java JRE e JDK: escreva o seu primeiro código com Eclipse
 - [ ] 9 - Java OO: introdução à Orientação a Objetos
 - [ ] 10 - Java Polimorfismo: entenda herança e interfaces
 - [ ] 11 - Java Exceções: aprenda a criar, lançar e controlar exceções
